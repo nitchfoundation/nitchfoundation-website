@@ -20,9 +20,9 @@
         let currentLang = 'en';
 
         const swahiliOverrides = {
-            'Building Builders.': 'Kuwawezesha vijana kuwa wabunifu.',
-            'Creating Solutions.': 'Kutengeneza suluhisho.',
-            'Transforming Tanzania.': 'Kuleta maendeleo Tanzania.',
+            'Building Builders.': 'Kujenga Wasanifu.',
+            'Creating Solutions.': 'Kusanifu Suluhisho.',
+            'Transforming Tanzania.': 'Kubadilisha Tanzania.',
             'Shifting Tanzanian youth from passive technology consumers into active inventors, software engineers, and community problem-solvers.': 'Kuwawezesha vijana wa Tanzania kutoka kutumia teknolojia pekee hadi kubuni, kutengeneza mifumo na kutatua changamoto za jamii.',
             'Join the Builders Movement': 'Jiunge na Vuguvugu la Wabunifu Tanzania.',
             'Made for Tanzania': 'Kwa ajili ya Tanzania',
