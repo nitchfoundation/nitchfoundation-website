@@ -1176,6 +1176,21 @@
             }
         }
 
+        @media (max-width: 480px) {
+            .site-header-row .donate-nav-button,
+            .site-header-row #lang-label {
+                display: none;
+            }
+
+            .site-header-row > .flex.items-center.space-x-2 {
+                gap: 0.35rem;
+            }
+
+            .site-header-row > .flex.items-center.space-x-2 > * + * {
+                margin-left: 0 !important;
+            }
+        }
+
         @media (max-width: 420px) {
             .site-header-row > div:first-child {
                 flex-shrink: 0;
