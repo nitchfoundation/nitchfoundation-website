@@ -644,7 +644,7 @@
         }
 
         .site-brand-logo {
-            height: 2.6rem;
+            height: 2.4rem;
         }
 
         .site-brand-name {
@@ -946,7 +946,7 @@
         .site-header-row .site-brand-logo,
         .footer-brand-logo-frame .site-brand-logo {
             object-position: center;
-            transform: translateY(-4px) scale(1.7);
+            transform: translateY(-2px) scale(1.2);
         }
 
         .dark .site-brand-logo-frame {
